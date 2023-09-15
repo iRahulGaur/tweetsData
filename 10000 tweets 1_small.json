@@ -1,0 +1,1428 @@
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317875",
+    "id" : "149715690143449899009",
+    "objectType" : "activity",
+    "actor" : { 
+        "objectType" : "person",
+        "id" : "10243188921458",
+        "link" : "http://www.twitter.com/losebabyweight1",
+        "displayName" : "losebabyweight",
+        "postedTime" : "2010-09-09T22:40:10.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/522696965503455233/WfF2aJ7N_normal.png",
+        "summary" : "http://www.losebabyweight.com.au offers mums safe and proven plans to lose weight. Lose an average of 1kg a week.",
+        "links" : [ 
+            {
+                "href" : "http://www.losebabyweight.com.au",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 218,
+        "followersCount" : 1960,
+        "listedCount" : 17,
+        "statusesCount" : 14439,
+        "twitterTimeZone" : "Sydney",
+        "verified" : false,
+        "utcOffset" : "39600",
+        "preferredUsername" : "losebabyweight1",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 0
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:01.000Z",
+    "generator" : {
+        "displayName" : "Facebook",
+        "link" : "http://www.facebook.com/twitter"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/losebabyweight1/statuses/715690143449899009",
+    "text" : "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690143449899009",
+        "summary" : "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
+        "link" : "http://twitter.com/losebabyweight1/statuses/715690143449899009",
+        "postedTime" : "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/m4QLVq0BTr",
+                "expanded_url" : "http://fb.me/WUTD9TnQ",
+                "display_url" : "fb.me/WUTD9TnQ",
+                "indices" : [ 
+                    115, 
+                    138
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/m4QLVq0BTr",
+                "expanded_url" : "https://www.facebook.com/photo.php?fbid=1257229527624685",
+                "expanded_status" : 403
+            }
+        ],
+        "klout_score" : 44,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317876",
+    "id" : "149715690141306650624",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "1024397578801",
+        "link" : "http://www.twitter.com/wantirnaweather",
+        "displayName" : "Wantirna Weather",
+        "postedTime" : "2009-12-18T02:34:57.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/580069194/Eclipse_003vsm_normal.jpg",
+        "summary" : "Personal Weather Station from Wantirna, Victoria, Australia.",
+        "links" : [ 
+            {
+                "href" : "http://www.vic-weather.info",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 28,
+        "followersCount" : 80,
+        "listedCount" : 12,
+        "statusesCount" : 66248,
+        "twitterTimeZone" : "Melbourne",
+        "verified" : false,
+        "utcOffset" : "39600",
+        "preferredUsername" : "wantirnaweather",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Victoria, Australia"
+        },
+        "favoritesCount" : 1
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:01.000Z",
+    "generator" : {
+        "displayName" : "Weather Display Tweet",
+        "link" : "http://www.weather-display.com"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/wantirnaweather/statuses/715690141306650624",
+    "text" : "Wantirna, VIC, AU 11:00 AM Temp 19.8°C, RH 67pct, Winds NNW @ 0.0 km/h, Rain Today  0 mm, 1014.3 hpa &amp; Steady. #vicweather",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690141306650624",
+        "summary" : "Wantirna, VIC, AU 11:00 AM Temp 19.8°C, RH 67pct, Winds NNW @ 0.0 km/h, Rain Today  0 mm, 1014.3 hpa &amp; Steady. #vicweather",
+        "link" : "http://twitter.com/wantirnaweather/statuses/715690141306650624",
+        "postedTime" : "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [ 
+            {
+                "text" : "vicweather",
+                "indices" : [ 
+                    115, 
+                    126
+                ]
+            }
+        ],
+        "urls" : [],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "klout_score" : 28,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        145.0, 
+                        -37.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU",
+                    "region" : "Victoria"
+                },
+                "displayName" : "Victoria, Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317877",
+    "id" : "149715690140849586178",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "10243126525057",
+        "link" : "http://www.twitter.com/sas_anz",
+        "displayName" : "SAS Australia and NZ",
+        "postedTime" : "2010-03-26T04:15:45.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/663481722357477376/qKgaXF-B_normal.jpg",
+        "summary" : "Keep up to date with SAS Australia and New Zealand, the leader in business #analytics software & services. http://www.sas.com/au http://www.sas.com/nz #SASanz",
+        "links" : [ 
+            {
+                "href" : null,
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 1080,
+        "followersCount" : 1523,
+        "listedCount" : 233,
+        "statusesCount" : 3264,
+        "twitterTimeZone" : "Sydney",
+        "verified" : false,
+        "utcOffset" : "39600",
+        "preferredUsername" : "sas_anz",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia and New Zealand"
+        },
+        "favoritesCount" : 654
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:01.000Z",
+    "generator" : {
+        "displayName" : "Sprinklr",
+        "link" : "http://www.sprinklr.com"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/sas_anz/statuses/715690140849586178",
+    "text" : "Join us @ the Hilton Sydney 2 learn how 2 make analytics pervasive across yr organisation https://t.co/xGO7cZy9yU https://t.co/otxAeyMHMV",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690140849586178",
+        "summary" : "Join us @ the Hilton Sydney 2 learn how 2 make analytics pervasive across yr organisation https://t.co/xGO7cZy9yU https://t.co/otxAeyMHMV",
+        "link" : "http://twitter.com/sas_anz/statuses/715690140849586178",
+        "postedTime" : "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/xGO7cZy9yU",
+                "expanded_url" : "http://bit.ly/1Thojq6",
+                "display_url" : "bit.ly/1Thojq6",
+                "indices" : [ 
+                    90, 
+                    113
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : [],
+        "media" : [ 
+            {
+                "id" : 715690140442734594,
+                "id_str" : "715690140442734594",
+                "indices" : [ 
+                    114, 
+                    137
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+                "url" : "https://t.co/otxAeyMHMV",
+                "display_url" : "pic.twitter.com/otxAeyMHMV",
+                "expanded_url" : "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "large" : {
+                        "w" : 656,
+                        "h" : 596,
+                        "resize" : "fit"
+                    },
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 545,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 309,
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_extended_entities" : {
+        "media" : [ 
+            {
+                "id" : 715690140442734594,
+                "id_str" : "715690140442734594",
+                "indices" : [ 
+                    114, 
+                    137
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+                "url" : "https://t.co/otxAeyMHMV",
+                "display_url" : "pic.twitter.com/otxAeyMHMV",
+                "expanded_url" : "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "large" : {
+                        "w" : 656,
+                        "h" : 596,
+                        "resize" : "fit"
+                    },
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 545,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 309,
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/otxAeyMHMV",
+                "expanded_url" : "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+                "expanded_status" : 200
+            }, 
+            {
+                "url" : "https://t.co/xGO7cZy9yU",
+                "expanded_url" : "http://www.cloudera.com/about-cloudera/events/sessions/sydney.html",
+                "expanded_status" : 200
+            }
+        ],
+        "klout_score" : 51,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        174.0, 
+                        -42.0
+                    ]
+                },
+                "address" : {
+                    "country" : "New Zealand",
+                    "countryCode" : "NZ"
+                },
+                "displayName" : "New Zealand"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317878",
+    "id" : "149715690148764258304",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "102432956898436",
+        "link" : "http://www.twitter.com/Letticlothing",
+        "displayName" : "Letti.",
+        "postedTime" : "2015-01-03T06:49:53.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/551271071286964224/LFMmdnjv_normal.jpeg",
+        "summary" : "At Letti we are all about Bright Colours and Unique Designs made for the Beautiful Australian Lifestyle.\nLike us on Facebook! http://t.co/iAxoWWphDq",
+        "links" : [ 
+            {
+                "href" : "http://www.letti.com.au",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 140,
+        "followersCount" : 25,
+        "listedCount" : 0,
+        "statusesCount" : 98,
+        "twitterTimeZone" : "Brisbane",
+        "verified" : false,
+        "utcOffset" : "36000",
+        "preferredUsername" : "Letticlothing",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 10
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:03.000Z",
+    "generator" : {
+        "displayName" : "Facebook",
+        "link" : "http://www.facebook.com/twitter"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/Letticlothing/statuses/715690148764258304",
+    "text" : "Say Hello to this Gorgeous Gingham Dress! \n\nPerfect for a day of Play or a Party. \n\nOriginally $50 Now Only $40!... https://t.co/ILI5uaCIHw",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690148764258304",
+        "summary" : "Say Hello to this Gorgeous Gingham Dress! \n\nPerfect for a day of Play or a Party. \n\nOriginally $50 Now Only $40!... https://t.co/ILI5uaCIHw",
+        "link" : "http://twitter.com/Letticlothing/statuses/715690148764258304",
+        "postedTime" : "2016-04-01T00:00:03.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/ILI5uaCIHw",
+                "expanded_url" : "http://fb.me/2d00dmXeB",
+                "display_url" : "fb.me/2d00dmXeB",
+                "indices" : [ 
+                    116, 
+                    139
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/ILI5uaCIHw",
+                "expanded_url" : "https://www.facebook.com/letticlothing/posts/1618813941693793",
+                "expanded_status" : 403
+            }
+        ],
+        "klout_score" : 13,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317879",
+    "id" : "149715690137900941312",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "1024318064228",
+        "link" : "http://www.twitter.com/Intelledox",
+        "displayName" : "Intelledox",
+        "postedTime" : "2008-12-11T23:47:55.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/485981380585603072/inMuMtJ7_normal.png",
+        "summary" : "Intelledox's mobile-ready digitalization software helps over 1 million people to do business faster, smarter & efficiently Digitalize your business process now!",
+        "links" : [ 
+            {
+                "href" : "http://www.intelledox.com",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 486,
+        "followersCount" : 549,
+        "listedCount" : 24,
+        "statusesCount" : 1188,
+        "twitterTimeZone" : "Canberra",
+        "verified" : false,
+        "utcOffset" : "39600",
+        "preferredUsername" : "Intelledox",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Canberra, Australia"
+        },
+        "favoritesCount" : 55
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:00.000Z",
+    "generator" : {
+        "displayName" : "HubSpot",
+        "link" : "http://www.hubspot.com/"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/Intelledox/statuses/715690137900941312",
+    "text" : "Register for #Convergence2016 to hear@ChelleMelbourne talk about how to manage change through digital transformation https://t.co/7pxwwDeaXm",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690137900941312",
+        "summary" : "Register for #Convergence2016 to hear@ChelleMelbourne talk about how to manage change through digital transformation https://t.co/7pxwwDeaXm",
+        "link" : "http://twitter.com/Intelledox/statuses/715690137900941312",
+        "postedTime" : "2016-04-01T00:00:00.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [ 
+            {
+                "text" : "Convergence2016",
+                "indices" : [ 
+                    13, 
+                    29
+                ]
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/7pxwwDeaXm",
+                "expanded_url" : "http://hubs.ly/H02w_rn0",
+                "display_url" : "hubs.ly/H02w_rn0",
+                "indices" : [ 
+                    117, 
+                    140
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }, 
+            {
+                "value" : "bio_location: \"Canberra\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/7pxwwDeaXm",
+                "expanded_url" : "http://www.cvent.com/events/convergence-2016-optimising-your-organisational-change/agenda-77418453122540c5aa767dd59702ef91.aspx",
+                "expanded_status" : 200
+            }
+        ],
+        "klout_score" : 40,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        149.12807, 
+                        -35.28346
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU",
+                    "locality" : "Canberra",
+                    "region" : "Australian Capital Territory"
+                },
+                "displayName" : "Canberra, Australian Capital Territory, Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d831787a",
+    "id" : "149715690144515272704",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "10243225568917",
+        "link" : "http://www.twitter.com/kirrasportsclub",
+        "displayName" : "Kirra Sports Club",
+        "postedTime" : "2010-12-11T22:30:01.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/2259176306/Logo_only_normal.jpg",
+        "summary" : "Come to the best place in town",
+        "links" : [ 
+            {
+                "href" : "http://www.kirrasportsclub.com.au",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 3,
+        "followersCount" : 25,
+        "listedCount" : 1,
+        "statusesCount" : 3021,
+        "twitterTimeZone" : "Brisbane",
+        "verified" : false,
+        "utcOffset" : "36000",
+        "preferredUsername" : "kirrasportsclub",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 0
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:01.000Z",
+    "generator" : {
+        "displayName" : "Facebook",
+        "link" : "http://www.facebook.com/twitter"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/kirrasportsclub/statuses/715690144515272704",
+    "text" : "Friday's from 3pm\nFree BBQ, Bikini Girls &amp; Beverages\nMeat Raffles around Lunch Time\nSeafood Raffle from 4pm... https://t.co/etPRxJ2l7x",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690144515272704",
+        "summary" : "Friday's from 3pm\nFree BBQ, Bikini Girls &amp; Beverages\nMeat Raffles around Lunch Time\nSeafood Raffle from 4pm... https://t.co/etPRxJ2l7x",
+        "link" : "http://twitter.com/kirrasportsclub/statuses/715690144515272704",
+        "postedTime" : "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/etPRxJ2l7x",
+                "expanded_url" : "http://fb.me/2zCiqLHj4",
+                "display_url" : "fb.me/2zCiqLHj4",
+                "indices" : [ 
+                    115, 
+                    138
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/etPRxJ2l7x",
+                "expanded_url" : "https://www.facebook.com/photo.php?fbid=1085449301521990",
+                "expanded_status" : 403
+            }
+        ],
+        "klout_score" : 18,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d831787b",
+    "id" : "149715690151595417604",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "10243133042870",
+        "link" : "http://www.twitter.com/jamesbryronlove",
+        "displayName" : "James Bryron Love",
+        "postedTime" : "2010-04-14T21:43:24.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/1476486969/me-againCropped_normal.jpg",
+        "summary" : "I am an artist , writer , poet and musician\r\n\r\nAuthor of SciFi stories and More...\r\n... I RT and FollowBack",
+        "links" : [ 
+            {
+                "href" : "http://jamesbryronlove.com",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 51470,
+        "followersCount" : 59510,
+        "listedCount" : 2867,
+        "statusesCount" : 387258,
+        "twitterTimeZone" : "Brisbane",
+        "verified" : false,
+        "utcOffset" : "36000",
+        "preferredUsername" : "jamesbryronlove",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Brisbane"
+        },
+        "favoritesCount" : 23
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:03.000Z",
+    "generator" : {
+        "displayName" : "JamBotBooks",
+        "link" : "http://jamesbryronlove.com"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/jamesbryronlove/statuses/715690151595417604",
+    "text" : "Dormant  by James Bryron Love https://t.co/JK8W5qtWX7  #ASMSG #IAN1 https://t.co/xcyzmdTyIv",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690151595417604",
+        "summary" : "Dormant  by James Bryron Love https://t.co/JK8W5qtWX7  #ASMSG #IAN1 https://t.co/xcyzmdTyIv",
+        "link" : "http://twitter.com/jamesbryronlove/statuses/715690151595417604",
+        "postedTime" : "2016-04-01T00:00:03.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [ 
+            {
+                "text" : "ASMSG",
+                "indices" : [ 
+                    55, 
+                    61
+                ]
+            }, 
+            {
+                "text" : "IAN1",
+                "indices" : [ 
+                    62, 
+                    67
+                ]
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/JK8W5qtWX7",
+                "expanded_url" : "https://kdp.amazon.com/amazon-dp-action/us/bookshelf.marketplacelink/B01CZM0NA2",
+                "display_url" : "kdp.amazon.com/amazon-dp-acti…",
+                "indices" : [ 
+                    30, 
+                    53
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : [],
+        "media" : [ 
+            {
+                "id" : 715690150525673474,
+                "id_str" : "715690150525673474",
+                "indices" : [ 
+                    68, 
+                    91
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce6kZmdUIAI_DiS.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce6kZmdUIAI_DiS.jpg",
+                "url" : "https://t.co/xcyzmdTyIv",
+                "display_url" : "pic.twitter.com/xcyzmdTyIv",
+                "expanded_url" : "http://twitter.com/jamesbryronlove/status/715690151595417604/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "medium" : {
+                        "w" : 500,
+                        "h" : 750,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "large" : {
+                        "w" : 500,
+                        "h" : 750,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 510,
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_extended_entities" : {
+        "media" : [ 
+            {
+                "id" : 715690150525673474,
+                "id_str" : "715690150525673474",
+                "indices" : [ 
+                    68, 
+                    91
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce6kZmdUIAI_DiS.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce6kZmdUIAI_DiS.jpg",
+                "url" : "https://t.co/xcyzmdTyIv",
+                "display_url" : "pic.twitter.com/xcyzmdTyIv",
+                "expanded_url" : "http://twitter.com/jamesbryronlove/status/715690151595417604/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "medium" : {
+                        "w" : 500,
+                        "h" : 750,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "large" : {
+                        "w" : 500,
+                        "h" : 750,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 510,
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Brisbane\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/xcyzmdTyIv",
+                "expanded_url" : "http://twitter.com/jamesbryronlove/status/715690151595417604/photo/1",
+                "expanded_status" : 200
+            }, 
+            {
+                "url" : "https://t.co/JK8W5qtWX7",
+                "expanded_url" : "https://www.amazon.com/dp/B01CZM0NA2",
+                "expanded_status" : 503
+            }
+        ],
+        "klout_score" : 65,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        153.02809, 
+                        -27.46794
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU",
+                    "locality" : "Brisbane",
+                    "region" : "Queensland"
+                },
+                "displayName" : "Brisbane, Queensland, Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d831787c",
+    "id" : "149715690155760160768",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "10243990543296",
+        "link" : "http://www.twitter.com/BauerTimeSyd",
+        "displayName" : "CTU Sydney",
+        "postedTime" : "2012-12-05T09:13:11.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/378800000845646608/84bac8e6de52bd0ed70e4de422037726_normal.png",
+        "summary" : "Follow for hourly time checks from CTU, for the Sydney time zone! (Check the link for other zones.)",
+        "links" : [ 
+            {
+                "href" : "http://o172.net/bauertime",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 5,
+        "followersCount" : 6,
+        "listedCount" : 1,
+        "statusesCount" : 29049,
+        "twitterTimeZone" : "Sydney",
+        "verified" : false,
+        "utcOffset" : "39600",
+        "preferredUsername" : "BauerTimeSyd",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 0
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:04.000Z",
+    "generator" : {
+        "displayName" : "CTU-24",
+        "link" : "http://o172.net/bauertime"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/BauerTimeSyd/statuses/715690155760160768",
+    "text" : "THE FOLLOWING TAKES PLACE BETWEEN 11:00AM AND 12:00PM.",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690155760160768",
+        "summary" : "THE FOLLOWING TAKES PLACE BETWEEN 11:00AM AND 12:00PM.",
+        "link" : "http://twitter.com/BauerTimeSyd/statuses/715690155760160768",
+        "postedTime" : "2016-04-01T00:00:04.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "klout_score" : 16,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d831787d",
+    "id" : "149715690146062950400",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "102433266593548",
+        "link" : "http://www.twitter.com/OnAussie",
+        "displayName" : "What's On Aussie",
+        "postedTime" : "2015-07-03T02:09:37.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/616796684706672640/vprn5HK4_normal.jpg",
+        "summary" : "Connecting local communities with their people, news, businesses and events.",
+        "links" : [ 
+            {
+                "href" : "http://WhatsOnAussie.com.au",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 60,
+        "followersCount" : 37,
+        "listedCount" : 11,
+        "statusesCount" : 946,
+        "twitterTimeZone" : null,
+        "verified" : false,
+        "utcOffset" : null,
+        "preferredUsername" : "OnAussie",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 84
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:02.000Z",
+    "generator" : {
+        "displayName" : "Facebook",
+        "link" : "http://www.facebook.com/twitter"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/OnAussie/statuses/715690146062950400",
+    "text" : "So much to see and do when you Visit Central Australia\n\"We have our own kind of beaches in the #RedCentreNT! The... https://t.co/eRyP7eTk9X",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690146062950400",
+        "summary" : "So much to see and do when you Visit Central Australia\n\"We have our own kind of beaches in the #RedCentreNT! The... https://t.co/eRyP7eTk9X",
+        "link" : "http://twitter.com/OnAussie/statuses/715690146062950400",
+        "postedTime" : "2016-04-01T00:00:02.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [ 
+            {
+                "text" : "RedCentreNT",
+                "indices" : [ 
+                    95, 
+                    107
+                ]
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/eRyP7eTk9X",
+                "expanded_url" : "http://fb.me/4tbRKQpgN",
+                "display_url" : "fb.me/4tbRKQpgN",
+                "indices" : [ 
+                    116, 
+                    139
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : []
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/eRyP7eTk9X",
+                "expanded_url" : "https://www.facebook.com/photo.php?fbid=1022848134476636",
+                "expanded_status" : 403
+            }
+        ],
+        "klout_score" : 32,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
+
+{
+    "_id" : "abe415aa5e7133a4a61c0d831787e",
+    "id" : "149715690153545637888",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "1024336514031",
+        "link" : "http://www.twitter.com/Carbatec",
+        "displayName" : "Carbatec",
+        "postedTime" : "2009-04-29T23:07:30.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/525461038255181824/diaUudYd_normal.jpeg",
+        "summary" : "We offer the largest range of woodworking machinery, machine accessories, router bits and hand tools across Australia & NZ!",
+        "links" : [ 
+            {
+                "href" : "http://www.carbatec.com.au",
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 57,
+        "followersCount" : 220,
+        "listedCount" : 12,
+        "statusesCount" : 447,
+        "twitterTimeZone" : "Brisbane",
+        "verified" : false,
+        "utcOffset" : "36000",
+        "preferredUsername" : "Carbatec",
+        "languages" : [ 
+            "en"
+        ],
+        "location" : {
+            "objectType" : "place",
+            "displayName" : "Australia"
+        },
+        "favoritesCount" : 38
+    },
+    "verb" : "post",
+    "postedTime" : "2016-04-01T00:00:04.000Z",
+    "generator" : {
+        "displayName" : "TweetDeck",
+        "link" : "https://about.twitter.com/products/tweetdeck"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/Carbatec/statuses/715690153545637888",
+    "text" : "\"Why I love my Kreg Jig\" - Read more: https://t.co/bhPf04yhrA #kregjig #kreg #woodworking #pocketholejig #carbatec https://t.co/BBqKzpCNo8",
+    "object" : {
+        "objectType" : "note",
+        "id" : "1345715690153545637888",
+        "summary" : "\"Why I love my Kreg Jig\" - Read more: https://t.co/bhPf04yhrA #kregjig #kreg #woodworking #pocketholejig #carbatec https://t.co/BBqKzpCNo8",
+        "link" : "http://twitter.com/Carbatec/statuses/715690153545637888",
+        "postedTime" : "2016-04-01T00:00:04.000Z"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [ 
+            {
+                "text" : "kregjig",
+                "indices" : [ 
+                    62, 
+                    70
+                ]
+            }, 
+            {
+                "text" : "kreg",
+                "indices" : [ 
+                    71, 
+                    76
+                ]
+            }, 
+            {
+                "text" : "woodworking",
+                "indices" : [ 
+                    77, 
+                    89
+                ]
+            }, 
+            {
+                "text" : "pocketholejig",
+                "indices" : [ 
+                    90, 
+                    104
+                ]
+            }, 
+            {
+                "text" : "carbatec",
+                "indices" : [ 
+                    105, 
+                    114
+                ]
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/bhPf04yhrA",
+                "expanded_url" : "http://bit.ly/1UgM2bs",
+                "display_url" : "bit.ly/1UgM2bs",
+                "indices" : [ 
+                    38, 
+                    61
+                ]
+            }
+        ],
+        "user_mentions" : [],
+        "symbols" : [],
+        "media" : [ 
+            {
+                "id" : 712874686946885633,
+                "id_str" : "712874686946885633",
+                "indices" : [ 
+                    115, 
+                    138
+                ],
+                "media_url" : "http://pbs.twimg.com/media/CeSjwDTWQAEUb7R.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/CeSjwDTWQAEUb7R.jpg",
+                "url" : "https://t.co/BBqKzpCNo8",
+                "display_url" : "pic.twitter.com/BBqKzpCNo8",
+                "expanded_url" : "http://twitter.com/Carbatec/status/715690153545637888/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 399,
+                        "resize" : "fit"
+                    },
+                    "large" : {
+                        "w" : 600,
+                        "h" : 399,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 226,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_extended_entities" : {
+        "media" : [ 
+            {
+                "id" : 712874686946885633,
+                "id_str" : "712874686946885633",
+                "indices" : [ 
+                    115, 
+                    138
+                ],
+                "media_url" : "http://pbs.twimg.com/media/CeSjwDTWQAEUb7R.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/CeSjwDTWQAEUb7R.jpg",
+                "url" : "https://t.co/BBqKzpCNo8",
+                "display_url" : "pic.twitter.com/BBqKzpCNo8",
+                "expanded_url" : "http://twitter.com/Carbatec/status/715690153545637888/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 399,
+                        "resize" : "fit"
+                    },
+                    "large" : {
+                        "w" : 600,
+                        "h" : 399,
+                        "resize" : "fit"
+                    },
+                    "small" : {
+                        "w" : 340,
+                        "h" : 226,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 0,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "bio_location: \"Australia\"",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/bhPf04yhrA",
+                "expanded_url" : "https://www.carbatec.com.au/article/228/why-i-love-my-kreg-jig",
+                "expanded_status" : 403
+            }, 
+            {
+                "url" : "https://t.co/BBqKzpCNo8",
+                "expanded_url" : "http://twitter.com/Carbatec/status/715690153545637888/photo/1",
+                "expanded_status" : 200
+            }
+        ],
+        "klout_score" : 35,
+        "language" : {
+            "value" : "en"
+        },
+        "profileLocations" : [ 
+            {
+                "objectType" : "place",
+                "geo" : {
+                    "type" : "point",
+                    "coordinates" : [ 
+                        135.0, 
+                        -25.0
+                    ]
+                },
+                "address" : {
+                    "country" : "Australia",
+                    "countryCode" : "AU"
+                },
+                "displayName" : "Australia"
+            }
+        ]
+    }
+}
