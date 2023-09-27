@@ -1304,5 +1304,342 @@
         }
       ]
     }
-  }
+  },
+  
+{
+    "_id" : "abe415aa5e7133a4a61c0d8317921",
+    "id" : "149715690537655910400",
+    "objectType" : "activity",
+    "actor" : {
+        "objectType" : "person",
+        "id" : "102434577053995",
+        "link" : "http://www.twitter.com/HARDCOREBIAFRA1",
+        "displayName" : "HARDCORE BIAFRAN",
+        "postedTime" : "2015-12-23T09:36:53.000Z",
+        "image" : "https://pbs.twimg.com/profile_images/679598677866987520/7HEx78_9_normal.png",
+        "summary" : null,
+        "links" : [ 
+            {
+                "href" : null,
+                "rel" : "me"
+            }
+        ],
+        "friendsCount" : 358,
+        "followersCount" : 227,
+        "listedCount" : 55,
+        "statusesCount" : 26294,
+        "twitterTimeZone" : null,
+        "verified" : false,
+        "utcOffset" : null,
+        "preferredUsername" : "HARDCOREBIAFRA1",
+        "languages" : [ 
+            "en"
+        ],
+        "favoritesCount" : 8
+    },
+    "verb" : "share",
+    "postedTime" : "2016-04-01T00:01:35.000Z",
+    "generator" : {
+        "displayName" : "Twitter for Android",
+        "link" : "http://twitter.com/download/android"
+    },
+    "provider" : {
+        "objectType" : "service",
+        "displayName" : "Twitter",
+        "link" : "http://www.twitter.com"
+    },
+    "link" : "http://twitter.com/HARDCOREBIAFRA1/statuses/715690537655910400",
+    "text" : "RT @valbrownmc: Fayose Condemns Arrest of 76 Igbo Villagers over Protest against Fulani Herdsmen: https://t.co/KmWuS0Pyl7 https://t.co/7bGI…",
+    "object" : {
+        "id" : "149715622795741241344",
+        "objectType" : "activity",
+        "actor" : {
+            "objectType" : "person",
+            "id" : "102432187410251",
+            "link" : "http://www.twitter.com/valbrownmc",
+            "displayName" : "Valentine Nnamdi",
+            "postedTime" : "2013-11-11T00:32:24.000Z",
+            "image" : "https://pbs.twimg.com/profile_images/595852960418144256/8PY_3shO_normal.jpg",
+            "summary" : "Enough of Perpetual Degradation and Impoverishment Biafra is our Destination!!",
+            "links" : [ 
+                {
+                    "href" : null,
+                    "rel" : "me"
+                }
+            ],
+            "friendsCount" : 159,
+            "followersCount" : 3267,
+            "listedCount" : 17,
+            "statusesCount" : 25219,
+            "twitterTimeZone" : "Beijing",
+            "verified" : false,
+            "utcOffset" : "28800",
+            "preferredUsername" : "valbrownmc",
+            "languages" : [ 
+                "en"
+            ],
+            "favoritesCount" : 318
+        },
+        "verb" : "post",
+        "postedTime" : "2016-03-31T19:32:24.000Z",
+        "generator" : {
+            "displayName" : "Twitter for Android",
+            "link" : "http://twitter.com/download/android"
+        },
+        "provider" : {
+            "objectType" : "service",
+            "displayName" : "Twitter",
+            "link" : "http://www.twitter.com"
+        },
+        "link" : "http://twitter.com/valbrownmc/statuses/715622795741241344",
+        "text" : "Fayose Condemns Arrest of 76 Igbo Villagers over Protest against Fulani Herdsmen: https://t.co/KmWuS0Pyl7 https://t.co/7bGIgCKj8V",
+        "object" : {
+            "objectType" : "note",
+            "id" : "1345715622795741241344",
+            "summary" : "Fayose Condemns Arrest of 76 Igbo Villagers over Protest against Fulani Herdsmen: https://t.co/KmWuS0Pyl7 https://t.co/7bGIgCKj8V",
+            "link" : "http://twitter.com/valbrownmc/statuses/715622795741241344",
+            "postedTime" : "2016-03-31T19:32:24.000Z"
+        },
+        "favoritesCount" : 4,
+        "twitter_entities" : {
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/KmWuS0Pyl7",
+                    "expanded_url" : "http://bit.ly/1Vbv8cH",
+                    "display_url" : "bit.ly/1Vbv8cH",
+                    "indices" : [ 
+                        82, 
+                        105
+                    ]
+                }
+            ],
+            "user_mentions" : [],
+            "symbols" : [],
+            "media" : [ 
+                {
+                    "id" : 715622791739879424,
+                    "id_str" : "715622791739879424",
+                    "indices" : [ 
+                        106, 
+                        129
+                    ],
+                    "media_url" : "http://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                    "media_url_https" : "https://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                    "url" : "https://t.co/7bGIgCKj8V",
+                    "display_url" : "pic.twitter.com/7bGIgCKj8V",
+                    "expanded_url" : "http://twitter.com/valbrownmc/status/715622795741241344/photo/1",
+                    "type" : "photo",
+                    "sizes" : {
+                        "small" : {
+                            "w" : 340,
+                            "h" : 191,
+                            "resize" : "fit"
+                        },
+                        "thumb" : {
+                            "w" : 150,
+                            "h" : 150,
+                            "resize" : "crop"
+                        },
+                        "medium" : {
+                            "w" : 600,
+                            "h" : 337,
+                            "resize" : "fit"
+                        },
+                        "large" : {
+                            "w" : 747,
+                            "h" : 420,
+                            "resize" : "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "twitter_extended_entities" : {
+            "media" : [ 
+                {
+                    "id" : 715622791739879424,
+                    "id_str" : "715622791739879424",
+                    "indices" : [ 
+                        106, 
+                        129
+                    ],
+                    "media_url" : "http://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                    "media_url_https" : "https://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                    "url" : "https://t.co/7bGIgCKj8V",
+                    "display_url" : "pic.twitter.com/7bGIgCKj8V",
+                    "expanded_url" : "http://twitter.com/valbrownmc/status/715622795741241344/photo/1",
+                    "type" : "photo",
+                    "sizes" : {
+                        "small" : {
+                            "w" : 340,
+                            "h" : 191,
+                            "resize" : "fit"
+                        },
+                        "thumb" : {
+                            "w" : 150,
+                            "h" : 150,
+                            "resize" : "crop"
+                        },
+                        "medium" : {
+                            "w" : 600,
+                            "h" : 337,
+                            "resize" : "fit"
+                        },
+                        "large" : {
+                            "w" : 747,
+                            "h" : 420,
+                            "resize" : "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "twitter_filter_level" : "low",
+        "twitter_lang" : "en"
+    },
+    "favoritesCount" : 0,
+    "twitter_entities" : {
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/KmWuS0Pyl7",
+                "expanded_url" : "http://bit.ly/1Vbv8cH",
+                "display_url" : "bit.ly/1Vbv8cH",
+                "indices" : [ 
+                    98, 
+                    121
+                ]
+            }
+        ],
+        "user_mentions" : [ 
+            {
+                "screen_name" : "valbrownmc",
+                "name" : "Valentine Nnamdi",
+                "id" : 2187410251,
+                "id_str" : "2187410251",
+                "indices" : [ 
+                    3, 
+                    14
+                ]
+            }
+        ],
+        "symbols" : [],
+        "media" : [ 
+            {
+                "id" : 715622791739879424,
+                "id_str" : "715622791739879424",
+                "indices" : [ 
+                    122, 
+                    140
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                "url" : "https://t.co/7bGIgCKj8V",
+                "display_url" : "pic.twitter.com/7bGIgCKj8V",
+                "expanded_url" : "http://twitter.com/valbrownmc/status/715622795741241344/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "small" : {
+                        "w" : 340,
+                        "h" : 191,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 337,
+                        "resize" : "fit"
+                    },
+                    "large" : {
+                        "w" : 747,
+                        "h" : 420,
+                        "resize" : "fit"
+                    }
+                },
+                "source_status_id" : 715622795741241344,
+                "source_status_id_str" : "715622795741241344",
+                "source_user_id" : 2187410251,
+                "source_user_id_str" : "2187410251"
+            }
+        ]
+    },
+    "twitter_extended_entities" : {
+        "media" : [ 
+            {
+                "id" : 715622791739879424,
+                "id_str" : "715622791739879424",
+                "indices" : [ 
+                    122, 
+                    140
+                ],
+                "media_url" : "http://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                "media_url_https" : "https://pbs.twimg.com/media/Ce5nIzbUMAAFZnv.jpg",
+                "url" : "https://t.co/7bGIgCKj8V",
+                "display_url" : "pic.twitter.com/7bGIgCKj8V",
+                "expanded_url" : "http://twitter.com/valbrownmc/status/715622795741241344/photo/1",
+                "type" : "photo",
+                "sizes" : {
+                    "small" : {
+                        "w" : 340,
+                        "h" : 191,
+                        "resize" : "fit"
+                    },
+                    "thumb" : {
+                        "w" : 150,
+                        "h" : 150,
+                        "resize" : "crop"
+                    },
+                    "medium" : {
+                        "w" : 600,
+                        "h" : 337,
+                        "resize" : "fit"
+                    },
+                    "large" : {
+                        "w" : 747,
+                        "h" : 420,
+                        "resize" : "fit"
+                    }
+                },
+                "source_status_id" : 715622795741241344,
+                "source_status_id_str" : "715622795741241344",
+                "source_user_id" : 2187410251,
+                "source_user_id_str" : "2187410251"
+            }
+        ]
+    },
+    "twitter_filter_level" : "low",
+    "twitter_lang" : "en",
+    "retweetCount" : 35,
+    "gnip" : {
+        "matching_rules" : [ 
+            {
+                "value" : "lang:en (riot OR strike OR tension OR threat OR turmoil OR union OR unrest OR protest)",
+                "tag" : null
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/KmWuS0Pyl7",
+                "expanded_url" : "http://www.thebiafraherald.co/2016/03/fayose-condemns-arrest-of-76-igbo.html?utm_source=twitterfeed&utm_medium=twitter",
+                "expanded_status" : 200
+            }, 
+            {
+                "url" : "https://t.co/7bGIgCKj8V",
+                "expanded_url" : "http://twitter.com/valbrownmc/status/715622795741241344/photo/1",
+                "expanded_status" : 200
+            }
+        ],
+        "klout_score" : 43,
+        "language" : {
+            "value" : "en"
+        }
+    }
+}
+
+
 ]
