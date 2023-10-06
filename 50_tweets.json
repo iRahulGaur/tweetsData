@@ -2,7 +2,7 @@
 	{
       "created_at": "Thu Apr 06 15:24:15 +0000 2017",
       "id_str": "1850006245121695744",
-      "text": "Train people well enough so they can leave, treat them well enough so they don't want to. —@richardbranson",
+	  "text" : "CC: Who wore it best? Vote coming soon! - BuzzFeed #brizmun2016 #BuzzFeed https://t.co/hdf24ZB7OL",
       "user": {
         "id": 224499494501,
         "name": "user 01",
@@ -13,7 +13,21 @@
       },
       "place": {},
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+		{
+			"text": "brizmun2016",
+			"indices": [
+				51,
+				63
+			]
+		},{
+			"text": "BuzzFeed",
+			"indices": [
+				64,
+				73
+			]
+		},
+		],
         "urls": [
           {
             "url": "twt url sample",
